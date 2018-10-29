@@ -1,5 +1,5 @@
-# Portfolio 2
+# Updated Portfolio Page
 
-> [View Portfolio](https://paulrydberg.github.io/portfolio2/).
+> [Visit Link](https://paulrydberg.github.io/portfolio2/).
 >
-> Hi! my name is **Paul**. Here is the second version of my portfolio, a newer version of it is posted [here](https://github.com/paulrydberg/portfolio3).
+> Hi! my name is **Paul**. Here is the second version of my portfolio, a newer version of it is posted [here](https://github.com/paulrydberg/Updated-Portfolio-Page-2).
